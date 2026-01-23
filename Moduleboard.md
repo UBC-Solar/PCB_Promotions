@@ -1,6 +1,6 @@
 # Moduleboard Documentation - PCBWay Sponsored!
 ## Acknowledgment
-This project was kindly supported by PCBWay, who manufactured the first batch of the moduleboard test PCBs! PCBWay provides reliable PCB manufacturing and assembly services, offering a wide range of cost-effective options for rapid prototyping and small-volume production.
+This project was kindly supported by [**PCBWay**](https://www.pcbway.com/), who manufactured the first batch of the moduleboard test PCBs! PCBWay provides reliable PCB manufacturing and assembly services, offering a wide range of cost-effective options for rapid prototyping and small-volume production.
 
 <p align = "center">
     <img src="./media/IMG_5772-1.jpeg" width="400">
