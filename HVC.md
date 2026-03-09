@@ -2,7 +2,7 @@
 
 The High Voltage Controller (HVC) is a critical PCB designed for the UBC Solar V4 battery pack, acting as the primary control and safety interface for the vehicle's high-voltage systems. This page details the hardware design, from schematic architecture to functional implementation.
 
-This project was generously sponsored by [**PCBWay**](https://www.pcbway.com/), who provided manufacturing support and design review for the HVC!
+[**PCBWay**](https://www.pcbway.com/) lindly supported this project with manufacturing support and design review for the HVC! Please visit their site if you need PCB manufacturing or assembly services. There are lots of options for low-cost prototyping and small series production. Their 24/7 support for payments and for reviewing makes our teams production scale rapdiy!
 
 ![HVC overview](./media/hvc_banner.jpg)
 *Overall view of the High Voltage Controller (HVC) PCB.*
